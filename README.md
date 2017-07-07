@@ -21,3 +21,6 @@ Future Development Notes:
 5. Increase question library and change structure to allow replayability (i.e. questions do not repeat on consecutive playthroughs)
 
 Play the game: https://evilernie1985.github.io/project-1/
+
+[![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+]
